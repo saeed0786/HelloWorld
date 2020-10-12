@@ -1,0 +1,13 @@
+Started by upstream project "[8mha:////4PNHQ5L/iBVrBhE/QO9vABId2XoIllBYM6sUjlD3M4JoAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+iGpxSUBRflZqcklhvoAsbb/tscAAAA=[0mTestProject1" build number [8mha:////4FekNkZdqOwVGEv1MxfvzR30uG5ok/vX6NpDWRmDR+gCAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYR/az8JP2Q1OKSgKL8rNTkEkN9I3MAFrfFX8kAAAA=[0m27
+originally caused by:
+ Started by user [8mha:////4MhIcn6qRcy0iWdwa/bP7ATdhZ5VqqiBT5DapqOcDgHdAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL94sTU1BQDcwszAF1bdi3EAAAA[0msaeed0786
+Running as SYSTEM
+Building in workspace C:\Users\shazad\.jenkins\workspace\TestProject2
+[TestProject2] $ cmd /c call C:\Users\shazad\AppData\Local\Temp\jenkins8916709008972975789.bat
+
+C:\Users\shazad\.jenkins\workspace\TestProject2>date
+The current date is: Sun 10/11/2020 
+Enter the new date: (mm-dd-yy) 
+C:\Users\shazad\.jenkins\workspace\TestProject2>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

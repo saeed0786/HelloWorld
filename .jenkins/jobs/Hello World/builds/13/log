@@ -1,0 +1,20 @@
+Started by user [8mha:////4MhIcn6qRcy0iWdwa/bP7ATdhZ5VqqiBT5DapqOcDgHdAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL94sTU1BQDcwszAF1bdi3EAAAA[0msaeed0786
+Running as SYSTEM
+Building in workspace C:\Users\shazad\.jenkins\workspace\Hello World
+The recommended git tool is: NONE
+using credential admin
+ > C:\Program Files\Git\bin\git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Program Files\Git\bin\git.exe config remote.origin.url https://github.com/RaghavAutomation/HelloWorld.git # timeout=10
+Fetching upstream changes from https://github.com/RaghavAutomation/HelloWorld.git
+ > C:\Program Files\Git\bin\git.exe --version # timeout=10
+ > git --version # 'git version 2.28.0.windows.1'
+using GIT_ASKPASS to set credentials admin
+ > C:\Program Files\Git\bin\git.exe fetch --tags --force --progress -- https://github.com/RaghavAutomation/HelloWorld.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > C:\Program Files\Git\bin\git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+Checking out Revision a9859a1fe35ac154faaa57ae2181b981a9bb3043 (refs/remotes/origin/master)
+ > C:\Program Files\Git\bin\git.exe config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\bin\git.exe checkout -f a9859a1fe35ac154faaa57ae2181b981a9bb3043 # timeout=10
+Commit message: "added index2.html"
+First time build. Skipping changelog.
+Finished: SUCCESS

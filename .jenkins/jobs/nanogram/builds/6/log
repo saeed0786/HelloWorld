@@ -1,0 +1,27 @@
+Started by user [8mha:////4MhIcn6qRcy0iWdwa/bP7ATdhZ5VqqiBT5DapqOcDgHdAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL94sTU1BQDcwszAF1bdi3EAAAA[0msaeed0786
+Running as SYSTEM
+Building in workspace C:\Users\shazad\.jenkins\workspace\nanogram
+The recommended git tool is: NONE
+No credentials specified
+ > C:\Program Files\Git\bin\git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Program Files\Git\bin\git.exe config remote.origin.url https://github.com/Juriy/easyio.git # timeout=10
+Fetching upstream changes from https://github.com/Juriy/easyio.git
+ > C:\Program Files\Git\bin\git.exe --version # timeout=10
+ > git --version # 'git version 2.28.0.windows.1'
+ > C:\Program Files\Git\bin\git.exe fetch --tags --force --progress -- https://github.com/Juriy/easyio.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > C:\Program Files\Git\bin\git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+Checking out Revision 7391262bdd29cd314916451870181bee183a9c32 (refs/remotes/origin/master)
+ > C:\Program Files\Git\bin\git.exe config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\bin\git.exe checkout -f 7391262bdd29cd314916451870181bee183a9c32 # timeout=10
+Commit message: "commit to show how polling works"
+ > C:\Program Files\Git\bin\git.exe rev-list --no-walk 7391262bdd29cd314916451870181bee183a9c32 # timeout=10
+[nanogram] $ cmd /c call C:\Users\shazad\AppData\Local\Temp\jenkins8059350310667647717.bat
+
+C:\Users\shazad\.jenkins\workspace\nanogram>npm install 
+'npm' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\shazad\.jenkins\workspace\nanogram>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

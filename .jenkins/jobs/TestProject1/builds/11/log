@@ -1,0 +1,11 @@
+Started by user [8mha:////4MhIcn6qRcy0iWdwa/bP7ATdhZ5VqqiBT5DapqOcDgHdAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL94sTU1BQDcwszAF1bdi3EAAAA[0msaeed0786
+Running as SYSTEM
+Building in workspace C:\Users\shazad\.jenkins\workspace\TestProject1
+[TestProject1] $ cmd /c call C:\Users\shazad\AppData\Local\Temp\jenkins13818094055436046018.bat
+
+C:\Users\shazad\.jenkins\workspace\TestProject1>date
+The current date is: Mon 10/05/2020 
+Enter the new date: (mm-dd-yy) 
+C:\Users\shazad\.jenkins\workspace\TestProject1>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

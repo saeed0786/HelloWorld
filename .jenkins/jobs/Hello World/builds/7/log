@@ -1,0 +1,22 @@
+Started by user [8mha:////4MhIcn6qRcy0iWdwa/bP7ATdhZ5VqqiBT5DapqOcDgHdAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL94sTU1BQDcwszAF1bdi3EAAAA[0msaeed0786
+Running as SYSTEM
+Building in workspace C:\Users\shazad\.jenkins\workspace\Hello World
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/saeed0786/myphotoapp.git
+ > C:\Program Files\Git\bin\git.exe init C:\Users\shazad\.jenkins\workspace\Hello World # timeout=10
+Fetching upstream changes from https://github.com/saeed0786/myphotoapp.git
+ > C:\Program Files\Git\bin\git.exe --version # timeout=10
+ > git --version # 'git version 2.28.0.windows.1'
+ > C:\Program Files\Git\bin\git.exe fetch --tags --force --progress -- https://github.com/saeed0786/myphotoapp.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > C:\Program Files\Git\bin\git.exe config remote.origin.url https://github.com/saeed0786/myphotoapp.git # timeout=10
+ > C:\Program Files\Git\bin\git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > C:\Program Files\Git\bin\git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+Checking out Revision 4dc51de2ea31a34e8487442f2315df37d386ea52 (refs/remotes/origin/master)
+ > C:\Program Files\Git\bin\git.exe config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\bin\git.exe checkout -f 4dc51de2ea31a34e8487442f2315df37d386ea52 # timeout=10
+Commit message: "Add files via upload"
+First time build. Skipping changelog.
+Finished: SUCCESS

@@ -1,0 +1,8 @@
+Started by upstream project "[8mha:////4BO5YfiOdWy5D6bRVY5YWLoOqYgZs4vZKnduzwArGpvrAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+iGpxSUBRflZqcklRvoAcuXSnccAAAA=[0mTestProject2" build number [8mha:////4P0pe0unUMUSdj5e2+cZl/C4ko1BbwQJHgB9Sdnd+0nZAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmH9rPwk/ZDU4pKAovys1OQSI31jAEl/tS3IAAAA[0m3
+originally caused by:
+ Started by upstream project "[8mha:////4PNHQ5L/iBVrBhE/QO9vABId2XoIllBYM6sUjlD3M4JoAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+iGpxSUBRflZqcklhvoAsbb/tscAAAA=[0mTestProject1" build number [8mha:////4LFtb6p6t5D0cW3Ptsca410KlBfqnJV2EoLjyh6+cXuQAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYR/az8JP2Q1OKSgKL8rNTkEkN9I1MAOtbLsckAAAA=[0m25
+ originally caused by:
+  Started by remote host 192.168.1.214
+Running as SYSTEM
+Building in workspace C:\Users\shazad\.jenkins\workspace\TestProject3
+Finished: SUCCESS

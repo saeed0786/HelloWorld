@@ -1,0 +1,41 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>TestProject2</upstreamProject>
+            <upstreamUrl>job/TestProject2/</upstreamUrl>
+            <upstreamBuild>4</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>TestProject1</upstreamProject>
+                <upstreamUrl>job/TestProject1/</upstreamUrl>
+                <upstreamBuild>26</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-RemoteCause>
+                    <addr>0:0:0:0:0:0:0:1</addr>
+                  </hudson.model.Cause_-RemoteCause>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>148</queueId>
+  <timestamp>1602425611315</timestamp>
+  <startTime>1602425611340</startTime>
+  <result>SUCCESS</result>
+  <duration>3230</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\shazad\.jenkins\workspace\TestProject3</workspace>
+  <hudsonVersion>2.249.1</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

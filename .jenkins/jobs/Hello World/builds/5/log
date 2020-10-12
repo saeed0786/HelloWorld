@@ -1,0 +1,20 @@
+Started by user [8mha:////4MhIcn6qRcy0iWdwa/bP7ATdhZ5VqqiBT5DapqOcDgHdAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL94sTU1BQDcwszAF1bdi3EAAAA[0msaeed0786
+Running as SYSTEM
+Building in workspace C:\Users\shazad\.jenkins\workspace\Hello World
+[Hello World] $ cmd /c call C:\Users\shazad\AppData\Local\Temp\jenkins917429779109501160.bat
+
+C:\Users\shazad\.jenkins\workspace\Hello World>C:\Users\shazad\OneDrive\Desktop\JavaProject1\connect globe 
+'C:\Users\shazad\OneDrive\Desktop\JavaProject1\connect' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\shazad\.jenkins\workspace\Hello World>java MyListener.java 
+Error: Could not find or load main class MyListener.java
+Caused by: java.lang.ClassNotFoundException: MyListener.java
+
+C:\Users\shazad\.jenkins\workspace\Hello World>java MyListener 
+Error: Could not find or load main class MyListener
+Caused by: java.lang.ClassNotFoundException: MyListener
+
+C:\Users\shazad\.jenkins\workspace\Hello World>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,11 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\shazad\.jenkins\workspace\TestProject1
+[TestProject1] $ cmd /c call C:\Users\shazad\AppData\Local\Temp\jenkins9986457571475114797.bat
+
+C:\Users\shazad\.jenkins\workspace\TestProject1>date
+The current date is: Mon 10/05/2020 
+Enter the new date: (mm-dd-yy) 
+C:\Users\shazad\.jenkins\workspace\TestProject1>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE
